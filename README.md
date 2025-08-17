@@ -12,17 +12,17 @@
 
  MENTOR NAME: NEELA SANTOSH KUMAR
 
-Use python language to create a predictive model using scikit-learn it can classify outcomes from a dataset.
+ Use python language to create a predictive model using scikit-learn it can classify outcomes from a dataset.
 
-This model with the help of using scikit-learn we can classify predicted outcomes from a dataset.
+ This model with the help of using scikit-learn we can classify predicted outcomes from a dataset.
 
-Requiremments:install necessary libraries
+ Requiremments:install necessary libraries
 
-pip install pandas scikit-learn
+ pip install pandas scikit-learn
 
  Machine Learning model implementation is a structured process that involves designing, training, evaluating, and deploying algorithms that can learn patterns from data to make      predictions or decisions. It begins with problem definition, where the task is clearly identified as a classification, regression, clustering, or recommendation problem. 
  
-Next, data collection is carried out from various sources such as CSV files, APIs, or databases using tools like pandas, requests, or SQLAlchemy. Once collected, the data undergoes preprocessing and cleaning to handle missing values, encode categorical features, scale numerical values, and remove inconsistencies, using libraries such as pandas, numpy, and preprocessing modules from scikit-learn.After cleaning, the data is split into training and testing sets using train_test_split to ensure the model can be evaluated on unseen data.
+ Next, data collection is carried out from various sources such as CSV files, APIs, or databases using tools like pandas, requests, or SQLAlchemy. Once collected, the data undergoes preprocessing and cleaning to handle missing values, encode categorical features, scale numerical values, and remove inconsistencies, using libraries such as pandas, numpy, and preprocessing modules from scikit-learn.After cleaning, the data is split into training and testing sets using train_test_split to ensure the model can be evaluated on unseen data.
  
 In the model building stage, an appropriate algorithm is selected based on the problem type. For example, LogisticRegression, RandomForestClassifier, or SVM from scikit-learn are used for classification tasks, while LinearRegression or XGBoostRegressor can be used for regression. For deep learning tasks, frameworks like TensorFlow, Keras, or PyTorch are commonly used to construct and train neural networks.
 
